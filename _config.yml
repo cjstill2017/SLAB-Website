@@ -2,9 +2,9 @@
 title: Still Lab Website
 author: Chris Still
 email: chris.still@oregonstate.edu
-description: <insert> 
-twitter_username: <insert> 
-github_username: <insert>
+description: 
+twitter_username:
+github_username: cjstill2017
 
 # BUILD SETTINGS
  markdown: kramdown 
