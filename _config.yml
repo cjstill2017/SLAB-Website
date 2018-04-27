@@ -7,5 +7,5 @@ twitter_username:
 github_username: cjstill2017
 
 # BUILD SETTINGS
- markdown: kramdown 
- theme: minima
+markdown: kramdown 
+theme: minima
