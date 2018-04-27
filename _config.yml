@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# BASIC SETTINGS
+title: <insert>
+author: <insert>
+email: <insert> 
+description: <insert> 
+twitter_username: <insert> 
+github_username: <insert>
+
+# BUILD SETTINGS
+ markdown: kramdown 
+ theme: minima
